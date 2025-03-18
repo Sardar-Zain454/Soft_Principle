@@ -23,6 +23,6 @@ For example, each role (Employee, Clerk, Manager) would have its own set of meth
 
 ## Project Files
 
-You can view or download the project files from the following link:
+You can view the explanation video or download the project video from the following link:
 
 [Google Drive - Project Files](https://drive.google.com/file/d/1Xpby47DrNGpXHEP8ymVhEBopbOYD6ioV/view?usp=drive_link)
